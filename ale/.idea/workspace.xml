@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="860df7fd-dc2d-43cb-b536-6670fa6b1cc0" name="Default" comment="These are things done for ch2 . ONTO ch3">
+    <list default="true" id="860df7fd-dc2d-43cb-b536-6670fa6b1cc0" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Lua_Learning.iws" />
@@ -105,7 +105,9 @@
         <option value="alejan.baez@gmail.com" />
       </list>
     </option>
+    <option name="SSH_EXECUTABLE" value="NATIVE_SSH" />
     <option name="LINE_SEPARATORS_CONVERSION" value="ASK" />
+    <option name="SYNC_SETTING" value="DONT" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
@@ -465,7 +467,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="recentsLimit" value="5" />
-    <property name="options.lastSelected" value="editor.preferences.import" />
+    <property name="options.lastSelected" value="project.propVCSSupport.VCSs.Git" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../perl/ale/1/ch1" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -643,7 +645,11 @@
       <created>1340043277503</created>
       <updated>1340043277504</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="These are things done for ch2 . ONTO ch3">
+      <created>1340043402511</created>
+      <updated>1340043402511</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
