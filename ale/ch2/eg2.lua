@@ -1,3 +1,5 @@
+#!/usr/bin/lua
+--love
 --
 -- Example: From pg 74 onwards ch2
 -- Made by: Alejandro Baez
@@ -30,9 +32,10 @@ hr = hr -149
 hr = hr % 12
 print(hr) -- 0 o'clock
 
+
 -- NOTE: CANNOT use arithmetic on strings. Follows C language very strictly!
 a,b,c,d = 1000,150,500,25
-print(a -b a= c -d) -- turns out false.
+print( a - b = c - d) -- turns out false.
 
 --[[ this
 is a comment pull and untill i close

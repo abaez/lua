@@ -1,3 +1,4 @@
+#!/usr/bin/lua
 --
 -- Exercise 1-5 from ch2
 -- Made by: Alejandro Baez
