@@ -1,3 +1,4 @@
+#!/usr/bin/lua
 --
 -- Example: from ch2
 -- Made by: Alejandro Baez

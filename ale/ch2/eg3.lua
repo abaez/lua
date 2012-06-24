@@ -1,3 +1,4 @@
+#!/usr/bin/lua
 --
 -- Example: Examples for compound statements
 -- Made by: Alejandro Baez
