@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="860df7fd-dc2d-43cb-b536-6670fa6b1cc0" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ch5/pat_match_1.lua" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Lua_Learning.iws" />
@@ -68,16 +69,7 @@
       <file leaf-file-name="eg1.lua" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ch2/eg1.lua">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="16" selection-start="654" selection-end="654" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="eg3.lua" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ch2/eg3.lua">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="0" selection-start="792" selection-end="792" vertical-scroll-proportion="0.0">
+            <state line="24" column="16" selection-start="652" selection-end="652" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -86,7 +78,7 @@
       <file leaf-file-name="eg2.lua" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ch2/eg2.lua">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="34" column="18" selection-start="1006" selection-end="1006" vertical-scroll-proportion="0.5163399">
+            <state line="32" column="18" selection-start="901" selection-end="901" vertical-scroll-proportion="0.29847494">
               <folding />
             </state>
           </provider>
@@ -123,8 +115,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="112" />
-    <option name="y" value="132" />
+    <option name="x" value="398" />
+    <option name="y" value="153" />
     <option name="width" value="1406" />
     <option name="height" value="870" />
   </component>
@@ -404,9 +396,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane">
-        <subPane />
-      </pane>
       <pane id="Scope">
         <subPane subId="Project Files">
           <PATH>
@@ -416,6 +405,9 @@
             </PATH_ELEMENT>
           </PATH>
         </subPane>
+      </pane>
+      <pane id="PackagesPane">
+        <subPane />
       </pane>
       <pane id="ProjectPane">
         <subPane>
@@ -467,7 +459,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="recentsLimit" value="5" />
-    <property name="options.lastSelected" value="project.propVCSSupport.VCSs.Git" />
+    <property name="options.lastSelected" value="reference.settingsdialog.IDE.editor.colors.Font" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../perl/ale/1/ch1" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -677,10 +669,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="112" y="132" width="1406" height="870" extended-state="0" />
+    <frame x="398" y="153" width="1406" height="870" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32918397" sideWeight="0.4970458" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32918397" sideWeight="0.4970458" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24963072" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39943343" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -688,15 +680,15 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28074074" sideWeight="0.3611898" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Kahlua" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3293944" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32918397" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32918397" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3286119" sideWeight="0.49407408" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2813885" sideWeight="0.373444" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2911111" sideWeight="0.53665286" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2813885" sideWeight="0.2876902" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2911111" sideWeight="0.12448133" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32918397" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32918397" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -767,11 +759,6 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../../moai-beta/.kdev4/moai-beta.kdev4">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../../../moai-beta/src/moai/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state line="13" column="34" selection-start="401" selection-end="401" vertical-scroll-proportion="0.2867647" />
@@ -802,47 +789,24 @@
         <state line="66" column="0" selection-start="1986" selection-end="1986" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../cpp/ale/cppPrimer/ch7/7.24.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="0" selection-start="433" selection-end="433" vertical-scroll-proportion="0.42796007" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../cpp/ale/cppPrimer/ch7/7.7.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="35" selection-start="1319" selection-end="1319" vertical-scroll-proportion="0.6562054" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../../perl/ale/1/ch1/eg1.pl">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="139" selection-end="139" vertical-scroll-proportion="0.116959065">
-          <folding />
-        </state>
+        <state line="4" column="0" selection-start="139" selection-end="139" vertical-scroll-proportion="0.116959065" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ch2/ex1.lua">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="0" selection-start="318" selection-end="318" vertical-scroll-proportion="0.9520697">
-          <folding />
-        </state>
+        <state line="23" column="0" selection-start="318" selection-end="318" vertical-scroll-proportion="0.9520697" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ch2/eg1.lua">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="16" selection-start="654" selection-end="654" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch2/eg3.lua">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="0" selection-start="792" selection-end="792" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="24" column="16" selection-start="652" selection-end="652" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ch2/eg2.lua">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="18" selection-start="1006" selection-end="1006" vertical-scroll-proportion="0.5163399">
+        <state line="32" column="18" selection-start="901" selection-end="901" vertical-scroll-proportion="0.29847494">
           <folding />
         </state>
       </provider>
