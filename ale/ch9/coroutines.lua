@@ -77,7 +77,7 @@ function c()
 	status("C 4")
 end
 
-a,b,c = coroutine.creat(a), coroutine.wrap(b), coroutine.create(c); 
+a,b,c = coroutine.create(a), coroutine.wrap(b), coroutine.create(c); 
 status("main 1")
 coroutine.resume(c)
 status("main 2")
