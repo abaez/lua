@@ -45,7 +45,6 @@ local function multitasking()
 	end
 end
 
-
 local function loc_cont()
 	return math.random(12) >1
 end

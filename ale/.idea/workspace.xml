@@ -2,11 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="860df7fd-dc2d-43cb-b536-6670fa6b1cc0" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ch5/pat_match_1.lua" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="/data/Projects/git/teaching/lua/ale/ch16/test.lua" afterPath="" />
+      <change type="MODIFICATION" beforePath="/data/Projects/git/teaching/lua/ale/.directory" afterPath="/data/Projects/git/teaching/lua/ale/.directory" />
+      <change type="MODIFICATION" beforePath="/data/Projects/git/teaching/lua/ale/.idea/compiler.xml" afterPath="/data/Projects/git/teaching/lua/ale/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="/data/Projects/git/teaching/lua/ale/.idea/misc.xml" afterPath="/data/Projects/git/teaching/lua/ale/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="/data/Projects/git/teaching/lua/ale/.idea/modules.xml" afterPath="/data/Projects/git/teaching/lua/ale/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="/data/Projects/git/teaching/lua/ale/.idea/vcs.xml" afterPath="/data/Projects/git/teaching/lua/ale/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="/data/Projects/git/teaching/lua/ale/.idea/workspace.xml" afterPath="/data/Projects/git/teaching/lua/ale/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="/data/Projects/git/teaching/lua/ale/ch2/eg2.lua" afterPath="/data/Projects/git/teaching/lua/ale/ch2/eg2.lua" />
     </list>
     <ignored path="Lua_Learning.iws" />
     <ignored path=".idea/workspace.xml" />
+    <file path="/Dummy.txt" changelist="860df7fd-dc2d-43cb-b536-6670fa6b1cc0" time="1348804111667" ignored="false" />
+    <file path="/eg1.lua" changelist="860df7fd-dc2d-43cb-b536-6670fa6b1cc0" time="1348803701925" ignored="false" />
+    <file path="/eg2.lua" changelist="860df7fd-dc2d-43cb-b536-6670fa6b1cc0" time="1348804024663" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +35,8 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
-    <breakpoint_any>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
         <option name="NOTIFY_UNCAUGHT" value="true" />
@@ -58,27 +68,21 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
+    <breakpoint_rules default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="Lua_Learning" />
+    <favorites_list name="Current task" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="eg1.lua" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ch2/eg1.lua">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="16" selection-start="652" selection-end="652" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="eg2.lua" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ch2/eg2.lua">
+        <entry file="file:///data/Projects/git/teaching/lua/ale/ch2/eg2.lua">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="18" selection-start="901" selection-end="901" vertical-scroll-proportion="0.29847494">
+            <state line="38" column="32" selection-start="1053" selection-end="1053" vertical-scroll-proportion="0.2888889">
               <folding />
             </state>
           </provider>
@@ -98,25 +102,26 @@
       </list>
     </option>
     <option name="SSH_EXECUTABLE" value="NATIVE_SSH" />
-    <option name="LINE_SEPARATORS_CONVERSION" value="ASK" />
     <option name="SYNC_SETTING" value="DONT" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="/data/Projects/git/teaching/lua" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/../../../moai-beta/src/moai/main.cpp" />
-        <option value="$PROJECT_DIR$/ch1/eg1.lua" />
-        <option value="$PROJECT_DIR$/ch1/eg2.lua" />
-        <option value="$PROJECT_DIR$/../../perl/ale/1/ch1/eg1.pl" />
-        <option value="$PROJECT_DIR$/ch1/eg3.lua" />
-        <option value="$PROJECT_DIR$/ch1/ex1.lua" />
+        <option value="/data/Projects/git/moai-beta/src/moai/main.cpp" />
+        <option value="/data/Projects/git/teaching/lua/ale/ch1/eg1.lua" />
+        <option value="/data/Projects/git/teaching/lua/ale/ch1/eg2.lua" />
+        <option value="/data/Projects/git/teaching/perl/ale/1/ch1/eg1.pl" />
+        <option value="/data/Projects/git/teaching/lua/ale/ch1/eg3.lua" />
+        <option value="/data/Projects/git/teaching/lua/ale/ch1/ex1.lua" />
+        <option value="/data/Projects/git/teaching/lua/ale/ch16/test.lua" />
+        <option value="/data/Projects/git/teaching/lua/ale/ch2/eg2.lua" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="398" />
-    <option name="y" value="153" />
+    <option name="x" value="79" />
+    <option name="y" value="145" />
     <option name="width" value="1406" />
     <option name="height" value="870" />
   </component>
@@ -396,6 +401,9 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="PackagesPane">
+        <subPane />
+      </pane>
       <pane id="Scope">
         <subPane subId="Project Files">
           <PATH>
@@ -406,23 +414,12 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane">
-        <subPane />
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="Lua_Learning" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="&lt; Kahlua &gt;" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -432,6 +429,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="ale" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Lua_Learning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ale" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ch16" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -461,25 +472,25 @@
     <property name="recentsLimit" value="5" />
     <property name="options.lastSelected" value="reference.settingsdialog.IDE.editor.colors.Font" />
     <property name="MemberChooser.sorted" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../perl/ale/1/ch1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
-  <component name="RunManager" selected="Lua Script.eg1.lua">
+  <component name="RunManager">
     <configuration default="false" name="eg1.lua" type="#com.sylvanaar.idea.Lua.run.LuaConfigurationType" factoryName="Lua Script" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="INTERPRETER_PATH" value="/murgalua" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch1" />
+      <option name="WORKING_DIRECTORY" value="/data/Projects/git/teaching/lua/ale/ch1" />
       <option name="PARENT_ENVS" value="true" />
       <option name="ALTERNATE_INTERPRETER" value="false" />
       <envs />
       <module name="Lua_Learning" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch1/eg1.lua" />
+      <option name="SCRIPT_NAME" value="/data/Projects/git/teaching/lua/ale/ch1/eg1.lua" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="com.sylvanaar.idea.Lua.debugger.LuaDebugRunner" />
       <ConfigurationWrapper RunnerId="com.sylvanaar.idea.Lua.debugger.LuaDebugRunner" />
@@ -489,12 +500,7 @@
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
       <option name="PROGRAM_PARAMETERS" />
-      <method>
-        <option name="AntTarget" enabled="false" />
-        <option name="BuildArtifacts" enabled="false" />
-        <option name="Make" enabled="true" />
-        <option name="Maven.BeforeRunTask" enabled="false" />
-      </method>
+      <method />
     </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
@@ -502,11 +508,20 @@
       <option name="SHMEM_ADDRESS" value="javadebug" />
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
-      <method>
-        <option name="AntTarget" enabled="false" />
-        <option name="BuildArtifacts" enabled="false" />
-        <option name="Maven.BeforeRunTask" enabled="false" />
-      </method>
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <module name="" />
@@ -520,7 +535,7 @@
       <option name="TEST_OBJECT" value="CLASS" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="/data/Projects/git/teaching/lua/ale" />
       <option name="OUTPUT_DIRECTORY" />
       <option name="ANNOTATION_TYPE" />
       <option name="ENV_VARIABLES" />
@@ -533,36 +548,13 @@
       <envs />
       <properties />
       <listeners />
-      <method>
-        <option name="AntTarget" enabled="false" />
-        <option name="BuildArtifacts" enabled="false" />
-        <option name="Make" enabled="true" />
-        <option name="Maven.BeforeRunTask" enabled="false" />
-      </method>
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method>
-        <option name="AntTarget" enabled="false" />
-        <option name="BuildArtifacts" enabled="false" />
-        <option name="Make" enabled="true" />
-        <option name="Maven.BeforeRunTask" enabled="false" />
-      </method>
+      <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="/data/Projects/git/teaching/lua/ale" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
@@ -570,12 +562,7 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="" />
       <envs />
-      <method>
-        <option name="AntTarget" enabled="false" />
-        <option name="BuildArtifacts" enabled="false" />
-        <option name="Make" enabled="true" />
-        <option name="Maven.BeforeRunTask" enabled="false" />
-      </method>
+      <method />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <module name="" />
@@ -587,7 +574,7 @@
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="/data/Projects/git/teaching/lua/ale" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="TEST_SEARCH_SCOPE">
@@ -595,12 +582,7 @@
       </option>
       <envs />
       <patterns />
-      <method>
-        <option name="AntTarget" enabled="false" />
-        <option name="BuildArtifacts" enabled="false" />
-        <option name="Make" enabled="true" />
-        <option name="Maven.BeforeRunTask" enabled="false" />
-      </method>
+      <method />
     </configuration>
     <configuration default="true" type="#com.sylvanaar.idea.Lua.run.LuaConfigurationType" factoryName="Lua Script">
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -609,14 +591,10 @@
       <option name="PARENT_ENVS" value="true" />
       <option name="ALTERNATE_INTERPRETER" value="false" />
       <envs />
-      <module name="Lua_Learning" />
+      <module name="" />
       <option name="SCRIPT_NAME" value="" />
       <option name="PARAMETERS" value="" />
-      <method>
-        <option name="AntTarget" enabled="false" />
-        <option name="BuildArtifacts" enabled="false" />
-        <option name="Make" enabled="true" />
-      </method>
+      <method />
     </configuration>
     <list size="1">
       <item index="0" class="java.lang.String" itemvalue="Lua Script.eg1.lua" />
@@ -627,6 +605,24 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="DETECT_NESTED_COPIES" value="true" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="860df7fd-dc2d-43cb-b536-6670fa6b1cc0" name="Default" comment="" />
@@ -669,10 +665,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="398" y="153" width="1406" height="870" extended-state="0" />
+    <frame x="79" y="145" width="1406" height="870" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32918397" sideWeight="0.4970458" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32551724" sideWeight="0.4970458" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24963072" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39943343" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -681,14 +677,16 @@
       <window_info id="Kahlua" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3293944" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32918397" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3286119" sideWeight="0.49407408" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2911111" sideWeight="0.53665286" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34070796" sideWeight="0.50620687" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2911111" sideWeight="0.12448133" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34070796" sideWeight="0.15862069" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32918397" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32918397" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -715,7 +713,6 @@
     <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
     <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
     <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
-    <option name="ENABLE_BACKGROUND_PROCESSES" value="false" />
     <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
     <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
     <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
@@ -725,9 +722,9 @@
     <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
     <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
     <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
-    <option name="CREATE_PATCH_EXPAND_DETAILS_DEFAULT" value="true" />
     <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
     <option name="LAST_COMMIT_MESSAGE" value="These are things done for ch2 . ONTO ch3" />
@@ -754,59 +751,76 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../../../moai-beta/src/lua-headers/main.lua">
+    <entry file="file:///data/Projects/git/teaching/lua/ale/ch2/eg2.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="32" selection-start="1184" selection-end="1184" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///data/Projects/git/teaching/lua/ale/ch2/eg1.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="23" selection-start="1169" selection-end="1169" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file:///data/Projects/git/teaching/lua/ale/ch16/server_berkeley.lua">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../../moai-beta/src/moai/main.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="34" selection-start="401" selection-end="401" vertical-scroll-proportion="0.2867647" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../../sdk/moai-sdk/include/aku/AKU-adcolony.h">
+    <entry file="file:///data/Projects/git/teaching/lua/ale/ch16/server_berkeley.lua">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.IdeaIC11/config/plugins/IDLua/stdlibrary/coroutine.lua">
+    <entry file="file:///data/Projects/sdk/moai-sdk/include/aku/AKU-adcolony.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="167" selection-end="167" vertical-scroll-proportion="0.1985294" />
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.IdeaIC11/config/plugins/IDLua/stdlibrary/io.lua">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="20" selection-start="211" selection-end="211" vertical-scroll-proportion="0.24264705" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../perl/ale/1/ch10/eg2.pl">
+    <entry file="file:///data/Projects/git/teaching/perl/ale/1/ch10/eg2.pl">
       <provider selected="true" editor-type-id="text-editor">
         <state line="21" column="27" selection-start="650" selection-end="650" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../../../sdk/moai-sdk/include/lua-modules/moai/apsalar.lua">
+    <entry file="file:///data/Projects/sdk/moai-sdk/include/lua-modules/moai/apsalar.lua">
       <provider selected="true" editor-type-id="text-editor">
         <state line="66" column="0" selection-start="1986" selection-end="1986" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../perl/ale/1/ch1/eg1.pl">
+    <entry file="file:///data/Projects/git/teaching/perl/ale/1/ch1/eg1.pl">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="0" selection-start="139" selection-end="139" vertical-scroll-proportion="0.116959065" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ch2/ex1.lua">
+    <entry file="file:///data/Projects/git/teaching/lua/ale/ch2/ex1.lua">
       <provider selected="true" editor-type-id="text-editor">
         <state line="23" column="0" selection-start="318" selection-end="318" vertical-scroll-proportion="0.9520697" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ch2/eg1.lua">
+    <entry file="file:///data/Projects/git/teaching/lua/ale/ch16/client.lua">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="16" selection-start="652" selection-end="652" vertical-scroll-proportion="0.0" />
+        <state line="14" column="37" selection-start="462" selection-end="462" vertical-scroll-proportion="0.61002177" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ch2/eg2.lua">
+    <entry file="file:///data/Projects/git/teaching/lua/ale/ch16/server_berkeley.lua">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="18" selection-start="901" selection-end="901" vertical-scroll-proportion="0.29847494">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file:///data/Projects/git/teaching/lua/ale/ch16/network_overview.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file:///data/Projects/git/teaching/lua/ale/ch2/eg1.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="22" selection-start="1050" selection-end="1050" vertical-scroll-proportion="0.48775056" />
+      </provider>
+    </entry>
+    <entry file="file:///data/Projects/git/teaching/lua/ale/ch2/eg2.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="32" selection-start="1053" selection-end="1053" vertical-scroll-proportion="0.2888889">
           <folding />
         </state>
       </provider>

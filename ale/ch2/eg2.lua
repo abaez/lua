@@ -38,13 +38,13 @@ a,b,c,d = 1000,150,500,25
 print( a - b = c - d) -- turns out false.
 
 --[[ this
-is a comment pull and untill i close
+is a comment pull and until i close
  with a bracket, it stays working as a comment! ]]
 
 print(2+ --[[21231 +]] 2) -- prints only 4, since there is a comment IN the code. NICE!
 
 -- if you add a -, in line 44, you will make the comment uncomment and the line of code would be read!
---[[
+--[[                                  i
 print("Some line")
 print("bob")
 --]]

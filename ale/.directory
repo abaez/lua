@@ -1,5 +1,8 @@
 [Dolphin]
 GroupedSorting=true
+SortOrder=1
+SortRole=type
 Sorting=6
-Timestamp=2012,4,9,13,35,38
+Timestamp=2012,8,11,1,45,13
+Version=3
 ViewMode=2
