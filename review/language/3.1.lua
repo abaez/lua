@@ -19,7 +19,7 @@ print(2^3^4, 2^-3^4)
     -- @param x the value for the polynomial table.
     function poly_to_tab(tab, x)
         result = 0
-        for i=#tab,1 do
+        for i=#tab,1, -1 do
             result = result + (x^i * tab[i])
         end
         return result
