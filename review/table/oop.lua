@@ -153,3 +153,36 @@ do -- multiple inheritance
         return c -- returns the new class
     end
 end
+
+
+--[[
+    Using private members.
+--]]
+
+do
+    local new_env = {}
+    setmetatable(new_env, {__index = _G})
+    _ENV = new_env
+
+
+    function newAccount( INITIAL )
+        -- private table
+        local self = {balance = INITIAL}
+
+        local withdraw = function(v) self.balance = self.balance - v end
+        local deposit = function(v) self.balance = self.balance + v end
+        local get_balance = function() return self.balance end
+
+        -- private
+        return {
+            withdraw = withdraw,
+            deposit = deposit,
+            get_balance = get_balance
+        }
+    end
+
+    test1 = newAccount(100.00)
+    test1.withdraw(40.00) -- note how no self is used since it's all internal.
+
+
+end
